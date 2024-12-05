@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Completed Computer Science and SSIT.
+- 🎓 &nbsp; Completed Computer Science from SSIT.
 - 🌱 &nbsp; Learning more about Machine Learning, Systems Design and Artificial Intelligence.
 
 
